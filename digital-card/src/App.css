@@ -1,0 +1,30 @@
+.App {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 44px;
+  font-family: 'Inter';
+
+ 
+}
+
+
+.container-main{
+  display: flex;
+  flex-direction: column;
+  border-left:90px solid#23252C ;
+  border-bottom:9px solid#23252C ;
+  border-right:90px solid#23252C ;
+  background:#23252C ;
+ width:250px ;
+
+
+margin-top: 0%;
+}
+
+
+
+
+
+

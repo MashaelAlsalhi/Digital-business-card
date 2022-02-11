@@ -1,0 +1,109 @@
+#container {
+margin: 0%;
+
+align-items: center;
+ 
+}
+
+.avatar {
+  width:250px;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+}
+
+.header {
+  padding-bottom: 0px;
+  margin-bottom: 0%;
+ 
+}
+
+.bio {
+
+  display: flex;
+  flex-direction: column;
+  background: #1A1B21;
+  padding-bottom: 22px;
+  
+
+}
+
+.name {
+  font-size: 22px;
+  color: aliceblue;
+  margin-bottom: 0%;
+  font-weight: bold;
+  margin-top: 0%;
+  padding-top: 8px;
+}
+
+
+.school {
+  font-size: 13px;
+  color: #F3BF99;
+  margin-top: 0.3rem;
+  margin-bottom: 0%;
+}
+
+
+.website {
+  font-size: 13px;
+  color: white;
+  margin-top:0px ;
+}
+
+
+.contacts {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+
+}
+
+
+#email-btn {
+
+  text-decoration: none;
+
+  border: 3px solid white;
+  color: #374151;
+  width: 80px;
+  height: 25x;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  background: white;
+
+}
+
+
+#linkedin-btn {
+  text-decoration: none;
+
+  border: 3px solid #297fe5;
+  color: #374151;
+  width: 80px;
+  height: 20px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #297fe5;
+  color: #ffffff;
+  margin-left: 40px;
+}
+
+#linkedin-btn:focus,
+#linkedin-btn:hover,
+#email-btn:focus,
+#email-btn:hover {
+  opacity: .4;
+}
+
+
+.contact {
+
+  padding-top: 22px;
+}

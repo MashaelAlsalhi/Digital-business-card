@@ -1,0 +1,16 @@
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #161619;
+    border: 10px solid #161619;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+#footer-btn {
+    border: 3px solid #918E9B;
+    background: #918E9B;
+    width: 25px;
+    border-radius: 3px;
+}
