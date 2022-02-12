@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Built with
 
 - Semantic HTML5 markup
-- CSS Flexbos
+- CSS Flexbox
 - react Icons 
 - [React](https://reactjs.org/)
 
