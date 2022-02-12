@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Semantic HTML5 markup
 - CSS Flexbox
-- react Icons 
-- [React](https://reactjs.org/)
+- [React](https://reactjs.org/) 
+- React Icons 
+
+## Live Preview 
+- [Click Here](https://mashaelalsalhi.github.io/Digital-business-card/)
+
 
